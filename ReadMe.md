@@ -1,5 +1,8 @@
 # 💫 About Me:
-Olá! Eu sou o João
+Olá, tudo bem?
+
+Me chamo João e atualmente cursando Análise e Desenvolvimento de Sistemas pela instituição UMFG. Apaixonado pela tecnologia, estou em busca de aprimorar meus conhecimentos na área de Desenvolvimento de Software também ajudar pessoas com este mesmo objetivo.
+Busco oportunidades de crescer neste ramo, e também, como pessoa.
 
 
 ## 🌐 Socials:
