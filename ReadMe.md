@@ -1,17 +1,36 @@
-# 💫 About Me:
+# 💫 Sobre mim:
+
 Olá, tudo bem?
 
-Me chamo João e atualmente cursando Análise e Desenvolvimento de Sistemas pela instituição UMFG. Apaixonado pela tecnologia, estou em busca de aprimorar meus conhecimentos na área de Desenvolvimento de Software também ajudar pessoas com este mesmo objetivo.
+Me chamo João, sou Desenvolvedor FullStack, e atualmente cursando Análise e Desenvolvimento de Sistemas pela instituição UMFG. Apaixonado pela tecnologia.
+Estou em busca de aprimorar meus conhecimentos na área de Desenvolvimento de Software também ajudar pessoas com este mesmo objetivo.
 Busco oportunidades de crescer neste ramo, e também, como pessoa.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/joão-paulo-almeida-alavarse-81b362231) 
+## 🌐 Redes Sociais:
+<div>
+  <a href="https://www.linkedin.com/in/joao-alavarse"><img height="25em" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:joao.almeida.alavarse@gmail.com"><img height="25em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/juaum_paa/"><img height="25em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<div/>
 
-# 💻 Tech Stack:
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=JoaoAlavarse&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlavarse&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+##
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoAlavarse&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlavarse&layout=compact&langs-count=16&theme=dracula"/>
+</div>
+
+##
+
+<div>
+  <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" /> 
+  <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+</div>
