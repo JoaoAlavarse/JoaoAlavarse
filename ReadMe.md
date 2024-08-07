@@ -2,7 +2,7 @@
 
 Olá, tudo bem?
 
-Me chamo João, sou Desenvolvedor FullStack, e atualmente cursando Análise e Desenvolvimento de Sistemas pela instituição UMFG. Apaixonado pela tecnologia.
+Me chamo João, sou Desenvolvedor FullStack, graduado em Análise e Desenvolvimento de Sistemas pela instituição UMFG e Pós-graduando em Segurança da informação pela instituição UNIASSELVI. Apaixonado pela tecnologia.
 Estou em busca de aprimorar meus conhecimentos na área de Desenvolvimento de Software também ajudar pessoas com este mesmo objetivo.
 Busco oportunidades de crescer neste ramo, e também, como pessoa.
 
