@@ -1,14 +1,31 @@
-# 💫 Sobre mim:
+<h1>💫 Sobre mim:</h1>
 
-Olá, tudo bem?
+<p>Olá, tudo bem?
 
 Me chamo João, sou Desenvolvedor FullStack, graduado em Análise e Desenvolvimento de Sistemas pela instituição UMFG e Pós-graduando em Segurança da informação pela instituição UNIASSELVI. Apaixonado pela tecnologia.
 Estou em busca de aprimorar meus conhecimentos na área de Desenvolvimento de Software também ajudar pessoas com este mesmo objetivo.
-Busco oportunidades de crescer neste ramo, e também, como pessoa.
+Busco oportunidades de crescer neste ramo, e também, como pessoa.</p>
 
+```java
+public class SobreMim {
+    private String nome;
+    private String area;
+    private String objetivo;
+    private String localizacao;
+    private String[] interesses;
 
-## 🌐 Redes Sociais:
-<div>
+    public SobreMim() {
+        this.nome = "João Alavarse";
+        this.area = "Desenvolvimento FullStack";
+        this.objetivo = "Aprimorar habilidades e ajudar outros com o mesmo objetivo";
+        this.localizacao = "Cianorte - PR";
+        this.interesses = new String[]{"Java", "React"};
+    }
+}
+```
+
+<h1 align='center'>🌐 Redes Sociais:</h1>
+<div align='center'>
   <a href="https://www.linkedin.com/in/joao-alavarse"><img height="25em" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
   <a href="mailto:joao.almeida.alavarse@gmail.com"><img height="25em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/juaum_paa/"><img height="25em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -16,14 +33,14 @@ Busco oportunidades de crescer neste ramo, e também, como pessoa.
 
 ##
 
-<div>
+<div align='center'>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoAlavarse&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlavarse&layout=compact&langs-count=16&theme=dracula"/>
 </div>
 
 ##
 
-<div>
+<div align='center'>
   <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" /> 
   <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -33,6 +50,7 @@ Busco oportunidades de crescer neste ramo, e também, como pessoa.
   <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
 </div>
 
 ##
