@@ -19,7 +19,7 @@ public class SobreMim {
         this.area = "Desenvolvimento FullStack";
         this.objetivo = "Aprimorar habilidades e ajudar outros com o mesmo objetivo";
         this.localizacao = "Cianorte - PR";
-        this.interesses = new String[]{"Java", "React"};
+        this.interesses = new String[]{"Java", "React", "Node"};
     }
 }
 ```
