@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     permissions:
-      contents: read
+      contents: write
       issues: write
       pull-requests: write
     steps:
