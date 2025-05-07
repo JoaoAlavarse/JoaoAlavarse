@@ -1,3 +1,9 @@
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
+  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaoalavarse&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaoalavarse&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
 <h1>💫 Sobre mim:</h1>
 
 <p>Olá, tudo bem?
