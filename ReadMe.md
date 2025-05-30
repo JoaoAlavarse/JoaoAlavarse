@@ -36,14 +36,7 @@ public class SobreMim {
   <a href="mailto:joao.almeida.alavarse@gmail.com"><img height="25em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/juaum_paa/"><img height="25em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <div/>
-
-##
-
-<div align='center'>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoAlavarse&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAlavarse&layout=compact&langs-count=16&theme=dracula"/>
-</div>
-
+  
 ##
 
 <div align='center'>
