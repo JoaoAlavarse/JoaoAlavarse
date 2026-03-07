@@ -53,6 +53,10 @@ public class SobreMim {
 </div>
 
 ##
+<div>
+   <img height="180em" src="https://api-readme-stats.vercel.app/api?username=JoaoAlavarse&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoAlavarse/JoaoAlavarse/output/github-contribution-grid-snake-dark.svg">
